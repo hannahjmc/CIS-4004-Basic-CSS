@@ -13,6 +13,10 @@ h1 {
     border-style: solid;
     border-color: green;
     margin:25px;
+    margin-left: 40;
+    margin-right: 40;
+    width: 700px;
+    line-height: 2;
 }
 
 .blue{
